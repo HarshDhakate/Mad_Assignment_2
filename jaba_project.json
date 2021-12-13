@@ -1,0 +1,12 @@
+{
+  "name": "MoviesMad",
+  "dir": "/home/Harsh Dhakate/Documents/projects/MoviesMad",
+  "packageName": "com.Harsh Dhakate.MoviesMad",
+  "architecture": 1,
+  "isNeedGoogleFontsModule": true,
+  "isNeedNetworkModule": true,
+  "baseUrl": "http://omdbapi.com/",
+  "isNeedRoomSupport": true,
+  "isNeedSplashScreen": true,
+  "isNeedLogInScreen": false
+}
